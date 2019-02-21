@@ -1,9 +1,9 @@
 {
   "addon": "resource.language.de_de",
   "settings": {
-    "locale.country": "Deutschland",
-    "locale.keyboardlayouts": "German QWERTZ",
     "locale.activekeyboardlayout": "German QWERTZ",
-    "lookandfeel.startupwindow": 200
+    "locale.country": "Deutschland FICK",
+    "locale.keyboardlayouts": "German QWERTZ",
+    "lookandfeel.startupwindow": "200"
   }
 }
