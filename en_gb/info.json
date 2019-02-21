@@ -2,7 +2,9 @@
    "addon":"resource.language.en_gb",
    "settings":{  
       "locale.country":"USA (12h)",
-      "locale.keyboardlayouts":"English QWERTY",
+      "locale.keyboardlayouts":[  
+         "English QWERTY"
+      ],
       "locale.activekeyboardlayout":"English QWERTY"
    }
 }

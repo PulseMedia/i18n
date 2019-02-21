@@ -2,7 +2,9 @@
    "addon":"resource.language.tr_tr",
    "settings":{  
       "locale.country":"USA (12h)",
-      "locale.keyboardlayouts":"Turkish QWERTZ",
+      "locale.keyboardlayouts":[  
+         "Turkish QWERTZ"
+      ],
       "locale.activekeyboardlayout":"Turkish QWERTZ"
    }
 }

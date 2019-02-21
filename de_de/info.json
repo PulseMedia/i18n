@@ -1,9 +1,11 @@
-{
-  "addon": "resource.language.de_de",
-  "settings": {
-    "locale.activekeyboardlayout": "German QWERTZ",
-    "locale.country": "Deutschland",
-    "locale.keyboardlayouts": ["German ABC" , "German QWERTZ"],
-    "lookandfeel.startupwindow": 200
-  }
+{  
+   "addon":"resource.language.de_de",
+   "settings":{  
+      "locale.country":"Deutschland",
+      "locale.keyboardlayouts":[  
+         "German ABC",
+         "German QWERTZ"
+      ],
+      "locale.activekeyboardlayout":"German QWERTZ"
+   }
 }
