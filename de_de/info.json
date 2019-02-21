@@ -3,7 +3,7 @@
   "settings": {
     "locale.country": "Deutschland",
     "locale.keyboardlayouts": "German QWERTZ",
-    "locale.activekeyboardlayout": "German QWERTZ"
-    "lookandfeel.startupwindow": 200,
+    "locale.activekeyboardlayout": "German QWERTZ",
+    "lookandfeel.startupwindow": 200
   }
 }
