@@ -11,19 +11,9 @@
          "text":"Select Language"
       },
       {  
-         "name":"English2",
-         "code":"en_gb",
-         "text":"Select Language"
-      },
-      {  
-         "name":"English3",
-         "code":"en_gb",
-         "text":"Select Language"
-      },
-      {  
-         "name":"English4",
-         "code":"en_gb",
-         "text":"Select Language"
+         "name":"Türk",
+         "code":"tr_tr",
+         "text":"Dil Seçin"
       }
    ]
 }
