@@ -2,10 +2,12 @@
    "languages":[  
       {  
          "name":"Deutsch",
+         "code":"de_de",
          "text":"Sprache Auswählen"
       },
       {  
          "name":"English",
+         "code":"NONE",
          "text":"Select Language"
       }
    ]
