@@ -1,8 +1,10 @@
-{  
-   "addon":"resource.language.de_de",
-   "settings":{  
-      "locale.country":"Deutschland",
-      "locale.keyboardlayouts":"German QWERTZ",
-      "locale.activekeyboardlayout":"German QWERTZ"
-   }
+{
+  "addon": "resource.language.de_de",
+  "settings": {
+    "locale.country": "Deutschland",
+    "locale.keyboardlayouts": "German QWERTZ",
+    "locale.activekeyboardlayout": [
+      "German QWERTZ"
+    ]
+  }
 }
