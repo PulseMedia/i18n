@@ -1,0 +1,12 @@
+{  
+   "languages":[  
+      {  
+         "name":"Deutsch",
+         "text":"Sprache Auswählen"
+      },
+      {  
+         "name":"English",
+         "text":"Select Language"
+      }
+   ]
+}
