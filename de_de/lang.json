@@ -1,3 +1,23 @@
-{  
-   "Email":"Email"
+{
+   "Email":"Email",
+   "Password":"Passwort",
+   "Login":"Login",
+   "Register":"Registrieren",
+   "InvalidInput":"Ungültige Eingabe",
+   "SelectDevice":"Gerät Auswählen",
+   "SelectDeviceText":"Seems like one or more devices have already been added to this account. [CR][CR]If you want to add this device to your account - add it. [CR][CR]If it is an already added device - just select it from the list",
+   "AddDeviceButton":"Neues Gerät hinzufügen",
+   "AddDevice":"Gerät hinzufügen",
+   "InvalidDeviceKey":"Invalid device key",
+   "InvalidLoginData":"Invalid login data",
+   "SessionError":"Session Error",
+   "EmailAlreadyExists":"E-mail already exists",
+   "PremiumMembershipExpired":"Premium membership expired",
+   "InvalidPremiumKey":"Invalid premium key",
+   "SubscribedLifetime":"You have successfully subscribed to Premium for your lifetime",
+   "SubscribedMonths":"You have successfully subscribed to Premium for {0} months",
+   "SubscribedMonth":"You have successfully subscribed to Premium for 1 month",
+   "SuccessfullySubscribed":"Successfully Subscribed",
+   "AddonForTvNotFound":"You are missing an addon to play this",
+   "AddonForTvNotActivated":"An addon is not activated to play this"
 }
