@@ -4,7 +4,7 @@
    "Login":"Login",
    "Register":"Registrieren",
    "InvalidInput":"Ungueltige Eingabe",
-   "SelectDevice":"Geraet Auswaehlen",
+   "SelectDevice":"Gerät Auswählen",
    "SelectDeviceText":"Seems like one or more devices have already been added to this account. [CR][CR]If you want to add this device to your account - add it. [CR][CR]If it is an already added device - just select it from the list",
    "AddDeviceButton":"Neues Geraet hinzufuegen",
    "AddDevice":"Geraet hinzufuegen",
