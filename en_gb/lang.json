@@ -46,5 +46,7 @@
    "BundleInstallDoneHeader":"Bundle Installation Completed",
    "BundleInstallationDone":"The installation was successfully completed[CR]A restart is now required[CR]INFO: Pulse is only terminated, a manual restart is required!",
    "Dashboard":"Dashboard",
-   "PulseTv":"PulseTv"
+   "PulseTv":"PulseTv",
+   "AddonForTvNotFound":"You are missing an addon to play this",
+   "AddonForTvNotActivated":"An addon is not activated to play this"
 }
