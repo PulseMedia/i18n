@@ -53,5 +53,16 @@
    "BundleInstallButton":"Installation",
    "BundleSelectHeader":"Bitte wählen Sie ein Bundle",
    "Dashboard":"Dashboard",
-   "PulseTv":"PulseTv"
+   "PulseTv":"PulseTv",
+   "AccountRequiredTitle":"Pulse Account benötigt",
+   "AccountRequiredText":"Um diese Funktion nutzen zu können, ist ein Pulse Account erforderlich",
+   "PremiumRequiredTitle":"Pulse Premium benötigt",
+   "PremiumRequiredText":"Um diese Funktion nutzen zu können, benötigen Sie eine Premium-Mitgliedschaft auf diesem Gerät",
+   "PulseSafeKill":"Pulse wird sicher beendet",
+   "SystemSafeKill":"Das System wird sicher beendet",
+   "SystemRestart":"Das System wird neu gestartet",
+   "DeviceName":"Geräte Name",
+   "DeviceKey":"Geräte Schlüssel",
+   "AccountPassword":"Dein Passwort: [B]{0}[/B] [CR][CR]Bitte merken sie sich das Passwirt[CR]Wir haben ihnen auch eine EMail mit dem Passwort gesendet",
+   "SuccessfullyRegistered":"Erfolgreich Registriert"
 }
