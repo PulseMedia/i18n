@@ -16,7 +16,7 @@
    "DeviceAddedPremium":"Gerät mit {0} Monaten Premium hinzugefügt",
    "DeviceAddedPremiumSingle":"Gerät mit 1 Monat Premium hinzugefügt",
    "SessionError":"Verbindungsfehler - Sie sind bereits mit einem anderen Gerät verbunden",
-   "SessionLogout":"Sie versuchen mit einem [CR] Key zu verbinden, der bereits für ein anderes Gerät genutzt wird.[CR] Sie wurden aus Sicherheitsgründen abgemeldet.",
+   "SessionLogout":"Sie versuchen mit einem [CR] Gerät zu verbinden, welches bereits genutzt wird.[CR] Sie wurden aus Sicherheitsgründen abgemeldet.",
    "EmailAlreadyExists":"Die verwendete E-Mail Adresse existiert bereits",
    "SubscribePremium":"Premium abbonieren",
    "SubscribeButton":"Abbonieren",

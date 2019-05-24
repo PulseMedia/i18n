@@ -16,7 +16,7 @@
    "DeviceAddedPremium":"Device with {0} months Premium added",
    "DeviceAddedPremiumSingle":"Device with 1 month Premium added",
    "SessionError":"Connection Error - You are already connected with another device",
-   "SessionLogout":"You are trying to connect [CR] with a key, already used for another device.[CR] For security reasons You have been logged out.",
+   "SessionLogout":"You are trying to connect [CR] with a Device, which is already in use.[CR] For security reasons You have been logged out.",
    "EmailAlreadyExists":"E-Mail already exists",
    "SubscribePremium":"Subscribe Premium",
    "SubscribeButton":"Subscribe",
