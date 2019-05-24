@@ -4,6 +4,7 @@
    "Login":"Login",
    "Register":"Register",
    "LoginHeader":"Login",
+   "RegisterHeader":"Register",
    "InvalidInput":"Invalid Input",
    "SelectDevice":"Please Select a device",
    "SelectDeviceText":"Here You can add new devices to Your account. [CR][CR]On the left side You see a list of devices that have already been added to Your account. [CR][CR]If the device is an already added device, please choose it at the list of devices.",
