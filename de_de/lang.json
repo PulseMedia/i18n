@@ -64,6 +64,6 @@
    "SystemRestart":"Das System wird neu gestartet",
    "DeviceName":"Geräte Name",
    "DeviceKey":"Geräte Schlüssel",
-   "AccountPassword":"Dein Passwort: [B]{0}[/B] [CR][CR]Bitte merken sie sich das Passwirt[CR]Wir haben ihnen auch eine EMail mit dem Passwort gesendet",
+   "AccountPassword":"Dein Passwort: [B]{0}[/B] [CR][CR]Bitte merken sie sich das Passwort[CR]Wir haben ihnen auch eine EMail mit dem Passwort gesendet",
    "SuccessfullyRegistered":"Erfolgreich Registriert"
 }
