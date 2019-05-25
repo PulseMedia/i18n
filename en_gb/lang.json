@@ -24,7 +24,7 @@
    "PremiumMembershipExpired":"Premium membership has expired",
    "InvalidPremiumKey":"Invalid Premium key",
    "PremiumKey":"Premium Key",
-   "PremiumExtend":"Premium subscription is extended",
+   "PremiumExtend":"Premium extend",
    "SubscribedLifetime":"You have successfully subscribed to Premium for Your lifetime",
    "SubscribedMonths":"You have successfully subscribed to Premium for {0} months",
    "SubscribedMonth":"You have successfully subscribed to Premium for 1 month",
