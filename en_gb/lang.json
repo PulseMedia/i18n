@@ -64,6 +64,13 @@
    "SystemRestart":"The system will be restarted",
    "DeviceName":"Device Name",
    "DeviceKey":"Device Key",
-   "AccountPassword":"Your password: [B]{0}[/B] [CR][CR]Please remember and do not forget it [CR]We also sent you an email with your password",
-   "SuccessfullyRegistered":"Successfully Registered"
+   "AccountPassword":"Your password: [B]{0}[/B] [CR][CR]Please remember and do not forget [CR]We also sent you an email with your password",
+   "SuccessfullyRegistered":"Successfully Registered",
+   "VerifyKey":"Email Verify Key",
+   "VerifyEmailError":"Invalid Verify E-Mail",
+   "InvalidVerifyKey":"Invalid Verify Key",
+   "VerifyButton":"Verify",
+   "RepeatPassword":"Repeat Password",
+   "PasswordDoesntMatch":"Password Doesnt Match",
+   "InvalidMail":"Invalid E-Mail"
 }

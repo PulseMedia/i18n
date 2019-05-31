@@ -65,5 +65,12 @@
    "DeviceName":"Geräte Name",
    "DeviceKey":"Geräte Schlüssel",
    "AccountPassword":"Dein Passwort: [B]{0}[/B] [CR][CR]Bitte merken sie sich das Passwort[CR]Wir haben ihnen auch eine EMail mit dem Passwort gesendet",
-   "SuccessfullyRegistered":"Erfolgreich Registriert"
+   "SuccessfullyRegistered":"Erfolgreich Registriert",
+   "VerifyKey":"Email Verifizierungs Schlüssel",
+   "VerifyEmailError":"Ungültige Verify E-Mail",
+   "InvalidVerifyKey":"Ungültiger Verifizierungs Schlüssel",
+   "VerifyButton":"Verifizieren",
+   "RepeatPassword":"Passwort wiederholen",
+   "PasswordDoesntMatch":"Passwörter stimmen nicht überein",
+   "InvalidMail":"Ungültige E-Mail"
 }
