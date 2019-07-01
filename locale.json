@@ -1,16 +1,17 @@
-{
-   "languages":[
-      {
+{  
+   "dataUrl":"https://raw.githubusercontent.com/PulseMedia/pulse-i18n-module/master/",
+   "languages":[  
+      {  
          "name":"Deutsch",
          "code":"de_de",
          "text":"Sprache Auswählen"
       },
-      {
+      {  
          "name":"English",
          "code":"en_gb",
          "text":"Select Language"
       },
-      {
+      {  
          "name":"Türkçe",
          "code":"tr_tr",
          "text":"Dil Seçin"
