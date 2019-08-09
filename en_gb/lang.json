@@ -134,5 +134,6 @@
    "EnterResetKeyMessage":"We have send you a reset key. Enter it to reset your password",
    "ResetPassNotice":"Please notice when you are changing your password, you get probably logged out on all other devices",
    "NoInternetHeader":"No Internet connection",
-   "NoInternetText":"Your device does not have an active internet connection"
+   "NoInternetText":"Your device does not have an active internet connection",
+   "FactoryReset":"FactoryReset"
 }

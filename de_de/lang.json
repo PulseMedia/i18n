@@ -133,5 +133,6 @@
    "EnterResetKeyMessage":"Wir haben einen Rücksetzschlüssel an Ihre E-Mail gesendet. Geben Sie es ein, um Ihr Passwort zurückzusetzen",
    "ResetPassNotice":"Bitte beachten Sie, dass Sie beim ändern Ihres Passworts möglicherweise auf anderen Geräten abgemeldet werden",
    "NoInternetHeader":"Keine Internet Verbundung",
-   "NoInternetText":"Dein Gerät hat keine aktive Internetverbindung"
+   "NoInternetText":"Dein Gerät hat keine aktive Internetverbindung",
+   "FactoryReset":"Werkseinstellung"
 }
